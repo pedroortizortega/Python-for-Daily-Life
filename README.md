@@ -14,5 +14,4 @@ I started with very ultra basic examples, and I finished with two functions to a
 ## Used Libraries
 - Pandas
 - Numpy
-- collections
 - Array
